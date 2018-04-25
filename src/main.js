@@ -4,7 +4,7 @@ function init(){
     Update.start();
 }
 function render(){
-
+    
 }
 function update(){
     
